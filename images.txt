@@ -4,4 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-universonic/stable-diffusion-webui
+universonic/stable-diffusion-webui:latest
+universonic/stable-diffusion-webui:full
