@@ -8,3 +8,4 @@ universonic/stable-diffusion-webui:latest
 universonic/stable-diffusion-webui:full
 siutin/stable-diffusion-webui-docker:cuda-v1.9.4-2024-06-12
 ashleykza/stable-diffusion-webui:6.6.0
+yanwk/comfyui-boot
